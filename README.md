@@ -24,7 +24,7 @@ Designed with a focus on **usability, smooth interactions, and a seamless shoppi
 
 ## 🎬 Demo
 Check out the live demo hosted on **GitHub Pages**:  
-[ ShopEasy ](https://harshgupta9129.github.io/shopeasy/)
+[ ShopEasy ](https://shopeasy-two.vercel.app/)
 
 ---
 
