@@ -32,6 +32,7 @@ Check out the live demo hosted on **GitHub Pages**:
 1. Clone the repository:
 ```bash
 git clone https://github.com/harshgupta9129/shopeasy.git
+```
 
 2. Open index.html in your preferred browser.
 
